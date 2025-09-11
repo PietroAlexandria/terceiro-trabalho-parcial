@@ -22,3 +22,4 @@ insert into Emprestimo (dataEmprestimo, dataDevolucao, livro_id, usuario_id) val
 insert into Emprestimo (dataEmprestimo, dataDevolucao, livro_id, usuario_id) values ('2025-09-10', '2025-09-20', 3, 3);
 insert into Emprestimo (dataEmprestimo, dataDevolucao, livro_id, usuario_id) values ('2025-09-15', '2025-09-25', 4, 4);
 insert into Emprestimo (dataEmprestimo, dataDevolucao, livro_id, usuario_id) values ('2025-09-20', '2025-09-30', 5, 5);
+-- FINALIZADO!
